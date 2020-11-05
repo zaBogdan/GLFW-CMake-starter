@@ -23,7 +23,6 @@ cd GLFW-CMake-starter
 
 Alternatively you can use a git GUI program such as [Fork](https://git-fork.com/) to get the code. Most of these will automatically download the git submodules.
 
-If you download the code from GitHub via the "Download ZIP" approach, you'll also need to download GLFW into the _glfw_ folder. The correct version can be found by clicking on the _glfw_ folder you see on the [front page of the _GLFW-CMake-starter_ GitHub repository](https://github.com/juliettef/GLFW-CMake-starter).
 
 ## Using CMake to create the project
 
