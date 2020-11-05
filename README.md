@@ -2,7 +2,7 @@
 
 This starter project shows how to use CMake to create a project with GLFW. The code is multi-platform and runs on Windows, Linux and MacOS.
 
-GLFW homepage: [glfw.org](https://www.glfw.org/)  
+Quickstart: [glfw.org](https://www.glfw.org/docs/3.3/quick_guide.html)  
 GLFW on GitHub: [github.com/glfw/glfw](https://www.github.com/glfw/glfw)
 
 ## Getting the code
